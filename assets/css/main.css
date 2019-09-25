@@ -118,7 +118,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #585858;
+		color: #252525;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -171,7 +171,6 @@ input, select, textarea {
 	h1 {
 		font-family: 'Prata', serif !important;
 		font-size: 2.75em;
-		font-weight: 700;
 		line-height: 1.3;
 		margin: 0 0 1em 0;
 		letter-spacing: -0.035em;
