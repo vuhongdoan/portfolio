@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
-@import url('https://fonts.googleapis.com/css?family=Be+Vietnam&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam:400,600,700,800&display=swap');
 
 
 /*
@@ -173,7 +173,7 @@ input, select, textarea {
 		font-weight: 600;
 		font-size: 2.75em;
 		line-height: 1.4;
-		margin: 0 0 1em 0;
+		margin: 0 0 0.25em 0;
 		letter-spacing: 0;
 	}
 
