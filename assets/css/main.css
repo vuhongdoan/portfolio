@@ -199,10 +199,10 @@ input, select, textarea {
 		}
 
 	h2, h3, h4, h5, h6 {
-		font-weight: 900;
+		font-family: 'Be Vietnam', sans-serif;
+		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 2em 0;
-		text-transform: uppercase;
 		letter-spacing: 0.35em;
 	}
 
