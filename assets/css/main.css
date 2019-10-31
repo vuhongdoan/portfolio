@@ -2708,9 +2708,12 @@ input, select, textarea {
 						margin-bottom: 0;
 					}
 
+			.tiles article.style > .image:before {
+				background-color: #ffffff;
+			}			
+					
 			.tiles article.style1 > .image:before {
 				background-color: #ffffff;
-				border: 1px solid #585858;
 			}
 
 			.tiles article.style2 > .image:before {
