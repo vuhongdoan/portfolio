@@ -2709,7 +2709,8 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-image: url("/images/aeho-logo.png")
+				background-color: #ffffff;
+				border: 1px solid #585858;
 			}
 
 			.tiles article.style2 > .image:before {
