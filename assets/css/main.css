@@ -2709,7 +2709,7 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-image: url("/images/aeho-logo.png")
 			}
 
 			.tiles article.style2 > .image:before {
