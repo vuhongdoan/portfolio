@@ -8401,8 +8401,8 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .1;
-    width: 50%;
-    background: #3e64ff; }
+    width: 100%;
+    background: #ffffff; }
   .hero-wrap .text {
     width: 100%; }
 
