@@ -8423,8 +8423,7 @@ h1, h2, h3, h4, h5,
 .slider-text h2 {
   font-weight: 800; }
   .slider-text h2 span {
-    color: #3e64ff;
-    text-decoration: underline; }
+    color: #3e64ff; }
 
 .slider-text p {
   font-size: 20px;
