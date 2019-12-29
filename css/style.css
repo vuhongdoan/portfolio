@@ -8301,7 +8301,7 @@ h1, h2, h3, h4, h5,
     background: #fff !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-    padding: 0; }
+    padding: 0 15px; }
     .ftco-navbar-light.scrolled .nav-item > .nav-link {
       color: #000000 !important; }
       @media (max-width: 991.98px) {
