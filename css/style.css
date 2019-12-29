@@ -8665,7 +8665,7 @@ h1, h2, h3, h4, h5,
   top: 180px;
   position: -webkit-sticky;
   position: sticky;
-  margin: 0; }
+  margin: 0 0 7em; }
   #navi ul {
     margin: 0;
     padding: 0; }
