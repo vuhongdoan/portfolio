@@ -9302,6 +9302,13 @@ textarea.form-control {
   transform: scale(1.01);
   transition: all 250ms ease-in-out !important;  }
 
+.block-empty {
+  margin: 15px 0;
+  display: block; }
+  @media (min-width: 768px) {
+  .block-empty {
+    display: none; }}
+    
 .blog-entry {
   position: relative; }
   @media (min-width: 768px) {
