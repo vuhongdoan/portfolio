@@ -8667,7 +8667,11 @@ h1, h2, h3, h4, h5,
   top: 180px;
   position: -webkit-sticky;
   position: sticky;
-  margin: 0 0 7em; }
+  margin: 0 0 7em;
+  display: block; }
+  @media (max-width: 991.98px) {
+    #navi {display: none; }
+  }
   #navi ul {
     margin: 0;
     padding: 0; }
@@ -9311,7 +9315,7 @@ textarea.form-control {
     margin: 0 auto; }
     .blog-entry .text .heading {
       font-size: 20px;
-      margin-bottom: 16px;
+      margin-bottom: 0;
       font-weight: 500; }
       .blog-entry .text .heading a {
         color: #2b2828; }
