@@ -9303,12 +9303,12 @@ textarea.form-control {
   transition: all 250ms ease-in-out !important;  }
 
 .block-empty {
-  margin: 15px 0;
+  margin: 25px 0;
   display: block; }
-  @media (min-width: 768px) {
+  @media (max-width: 767.98px) {
   .block-empty {
     display: none; }}
-    
+
 .blog-entry {
   position: relative; }
   @media (min-width: 768px) {
