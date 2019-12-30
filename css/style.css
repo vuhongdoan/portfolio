@@ -9321,7 +9321,7 @@ textarea.form-control {
         color: #2b2828; }
         .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
           color: #f78989; }
-       .blog-entry .text .content a, .blog-entry .text .content a:hover,  {
+       .blog-entry .text .content a {
             color: #999999; }
   .blog-entry .meta {
     display: inline-block;
