@@ -9315,12 +9315,14 @@ textarea.form-control {
     margin: 0 auto; }
     .blog-entry .text .heading {
       font-size: 20px;
-      margin-bottom: 0;
-      font-weight: 500; }
+      margin-bottom: 3px;
+      font-weight: 700; }
       .blog-entry .text .heading a {
         color: #2b2828; }
         .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
           color: #f78989; }
+       .blog-entry .text .content a, .blog-entry .text .content a:hover,  {
+            color: #999999; }
   .blog-entry .meta {
     display: inline-block;
     margin-right: 5px;
