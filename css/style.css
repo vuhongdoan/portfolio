@@ -8635,7 +8635,7 @@ h1, h2, h3, h4, h5,
   .ftco-about .img-about .top-center{
     position: absolute;
     padding-top: 20px;
-    text-align: center; }
+    text-align: center!important; }
 
 .ftco-about ul.about-info {
   display: inline-block;
