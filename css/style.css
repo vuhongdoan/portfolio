@@ -9310,7 +9310,8 @@ textarea.form-control {
     display: none; }}
 
 .blog-entry {
-  position: relative; }
+  position: relative;
+  min-width: 100%; }
   @media (min-width: 768px) {
     .blog-entry {
       margin-bottom: 30px; } }
